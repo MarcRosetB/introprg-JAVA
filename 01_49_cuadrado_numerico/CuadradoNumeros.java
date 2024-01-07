@@ -17,5 +17,6 @@ public class CuadradoNumeros {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
