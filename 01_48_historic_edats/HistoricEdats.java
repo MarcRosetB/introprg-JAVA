@@ -33,5 +33,6 @@ public class HistoricEdats{
             }
             System.out.println("Adéu " + nom);
         }
+        sc.close();
     }
 }
